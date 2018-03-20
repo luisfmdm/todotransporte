@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #A9F5E1;
+}
+.bg-light {
+  background-color: black;
+}
+#imagenperfil{
+  border-radius: 25%;
+  margin: 15px;
+}
+.carrusel {
+  padding: 65px;
+  background-color: #A9F5E1;
+}
+.carousel-control-prev-icon {
+  color: black;
+}
+.row{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #A9F5E1;
+  padding: 15px;
+}
+.Recarga {
+  text-align: center;
+  margin: 20px;
+}
