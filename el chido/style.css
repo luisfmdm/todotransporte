@@ -1,0 +1,36 @@
+body{
+  height: auto;
+  margin: 50px;
+  background-color: #8ECAA0;
+  background-image: url(https://image.flaticon.com/icons/png/512/257/257604.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.navbar {
+  background-color:  #8ECAA0;
+}
+.bg-light {
+  background-color: black;
+}
+#imagenperfil{
+  border-radius: 25%;
+  margin: 15px;
+}
+.carrusel {
+  padding: 65px;
+  background-color:  #8ECAA0;
+}
+.carousel-control-prev-icon {
+  color: black;
+}
+.row{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:  #8ECAA0;
+  padding: 15px;
+}
+.Recarga {
+  text-align: center;
+  margin: 20px;
+}
