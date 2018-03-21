@@ -1,0 +1,82 @@
+body{
+  height: 900px;
+  margin: 50px;
+  background-color: #8ECAA0;
+  background-image: url(https://image.flaticon.com/icons/png/512/257/257604.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#prim{
+  color: #0F0E8B;
+  font-size: 30px;
+  font-family: monospace;
+ text-align: center;
+}
+#datos{
+  font-size: 45px;
+  font-family: monospace;
+  color: #0F0E8B;
+  padding-top: 25px;
+text-align: center;
+
+}
+input{
+  font-size: 45px;
+  height: 50px;
+  width:  300px;
+  color: #0F0E8B;
+  background-color: #8ECAA0;
+  border : 1PX #0F0E8B solid;
+}
+#botton{
+  display: flex;
+  justify-content: center;
+}
+#boton{
+  height: 50px;
+  width: 100px;
+  color: white;
+  border-radius: 10%;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#boton:hover{
+  background-color:black;
+}
+#resultado{
+  width: auto;
+  height: auto;
+  text-decoration: none;
+  text-align: center;
+  font-size: 50px;
+  font-family: monospace;
+  color: white;
+}
+#boton2{
+  text-decoration: none;
+  color: white;
+  height: auto;
+  width: auto;
+  color: white;
+  border-radius: 10%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+a{
+  border-radius: 10px;
+  background-color: red;
+  width: 50px;
+  height: 300px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 50px;
+  font-family: monospace;
+  color: white;
+}
+a:hover{
+  background-color: black;
+}
